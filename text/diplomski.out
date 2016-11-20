@@ -1,0 +1,44 @@
+\BOOKMARK [0][-]{section*.1}{Sadr\236aj}{}% 1
+\BOOKMARK [0][-]{chapter*.2}{Uvod}{}% 2
+\BOOKMARK [0][-]{chapter.1}{Obrada prirodnog jezika}{}% 3
+\BOOKMARK [1][-]{section.1.1}{Opis podrucja}{chapter.1}% 4
+\BOOKMARK [1][-]{section.1.2}{Razumijevanje prirodnog jezika}{chapter.1}% 5
+\BOOKMARK [1][-]{section.1.3}{Prepoznavanje imenovanih entiteta}{chapter.1}% 6
+\BOOKMARK [1][-]{section.1.4}{Razrje\235avanje koreferencije}{chapter.1}% 7
+\BOOKMARK [1][-]{section.1.5}{Analiza sentimenta}{chapter.1}% 8
+\BOOKMARK [0][-]{chapter.2}{Modeli za prepoznavanje imenovanih entiteta}{}% 9
+\BOOKMARK [1][-]{section.2.1}{Generativni i diskriminativni modeli}{chapter.2}% 10
+\BOOKMARK [1][-]{section.2.2}{Graficki modeli}{chapter.2}% 11
+\BOOKMARK [1][-]{section.2.3}{Klasifikacija}{chapter.2}% 12
+\BOOKMARK [1][-]{section.2.4}{Skriveni Markovljevi modeli}{chapter.2}% 13
+\BOOKMARK [1][-]{section.2.5}{Uvjetna slucajna polja}{chapter.2}% 14
+\BOOKMARK [1][-]{section.2.6}{Ucenje i kori\235tenje modela}{chapter.2}% 15
+\BOOKMARK [0][-]{chapter.3}{Modeli za razrje\235avanje koreferencije}{}% 16
+\BOOKMARK [1][-]{section.3.1}{Model parova}{chapter.3}% 17
+\BOOKMARK [1][-]{section.3.2}{Model logike prvog reda}{chapter.3}% 18
+\BOOKMARK [1][-]{section.3.3}{Metoda vi\235eprolaznog sita}{chapter.3}% 19
+\BOOKMARK [0][-]{chapter.4}{Modeli za analizu sentimenta}{}% 20
+\BOOKMARK [1][-]{section.4.1}{Model "vreca rijeci"}{chapter.4}% 21
+\BOOKMARK [1][-]{section.4.2}{Model "vreca stavova"}{chapter.4}% 22
+\BOOKMARK [1][-]{section.4.3}{Naivni Bayesov klasifikator}{chapter.4}% 23
+\BOOKMARK [1][-]{section.4.4}{Duboko ucenje}{chapter.4}% 24
+\BOOKMARK [0][-]{chapter.5}{Razvoj aplikacije za karakterizaciju likova}{}% 25
+\BOOKMARK [1][-]{section.5.1}{Kori\235teni alati}{chapter.5}% 26
+\BOOKMARK [1][-]{section.5.2}{Organizacija projekta}{chapter.5}% 27
+\BOOKMARK [1][-]{section.5.3}{Klasa MainClass}{chapter.5}% 28
+\BOOKMARK [1][-]{section.5.4}{Klasa CharacterRecogniserTrainer}{chapter.5}% 29
+\BOOKMARK [1][-]{section.5.5}{Klase StoryData i CharacterName}{chapter.5}% 30
+\BOOKMARK [1][-]{section.5.6}{Klasa Solver}{chapter.5}% 31
+\BOOKMARK [1][-]{section.5.7}{Klasa CharacterRecognition}{chapter.5}% 32
+\BOOKMARK [1][-]{section.5.8}{Klasa CoreferenceResolution}{chapter.5}% 33
+\BOOKMARK [1][-]{section.5.9}{Klasa SentimentAnalysis}{chapter.5}% 34
+\BOOKMARK [1][-]{section.5.10}{Klasa Constants}{chapter.5}% 35
+\BOOKMARK [0][-]{chapter.6}{Rezultati}{}% 36
+\BOOKMARK [1][-]{section.6.1}{Pepeljuga}{chapter.6}% 37
+\BOOKMARK [1][-]{section.6.2}{Snjeguljica}{chapter.6}% 38
+\BOOKMARK [1][-]{section.6.3}{Vuk i sedam kozlica}{chapter.6}% 39
+\BOOKMARK [1][-]{section.6.4}{Pljacka\235 zarucnik}{chapter.6}% 40
+\BOOKMARK [0][-]{chapter.7}{Zakljucak}{}% 41
+\BOOKMARK [1][-]{section.7.1}{Ocjena implementiranog rje\235enja}{chapter.7}% 42
+\BOOKMARK [1][-]{section.7.2}{Nastavak istra\236ivanja}{chapter.7}% 43
+\BOOKMARK [0][-]{chapter*.37}{Bibliografija}{}% 44

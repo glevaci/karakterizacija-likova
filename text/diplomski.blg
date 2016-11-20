@@ -1,0 +1,65 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/W32TeX)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: diplomski.aux
+The style file: babamspl.bst
+Database file #1: diplomski.bib
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--empty language in chomsky
+Warning--empty language in clark2008coreference
+Warning--empty language in finkel2005incorporating
+Warning--empty language in grimes2010expert
+Warning--empty language in haghighi2009simple
+Warning--empty language in jurafsky2014speech
+Warning--empty language in lee2013deterministic
+Warning--empty language in liu2012sentiment
+Warning--empty language in manning2014stanford
+Warning--empty language in montague1970universal
+Warning--empty language in ogneva2010companies
+Warning--empty language in gutenberg
+Warning--empty language in qu2010bag
+Warning--empty language in aicomplete
+Warning--empty language in sharifrecursive
+Warning--empty language in socher2013recursive
+Warning--empty language in sutton2006introduction
+You've used 17 entries,
+            2664 wiz_defined-function locations,
+            698 strings with 8915 characters,
+and the built_in function-call counts, 8046 in all, are:
+= -- 578
+> -- 256
+< -- 0
++ -- 104
+- -- 84
+* -- 1193
+:= -- 1121
+add.period$ -- 17
+call.type$ -- 17
+change.case$ -- 93
+chr.to.int$ -- 0
+cite$ -- 34
+duplicate$ -- 423
+empty$ -- 765
+format.name$ -- 232
+if$ -- 1577
+int.to.chr$ -- 0
+int.to.str$ -- 17
+missing$ -- 32
+newline$ -- 75
+num.names$ -- 34
+pop$ -- 188
+preamble$ -- 1
+purify$ -- 76
+quote$ -- 0
+skip$ -- 248
+stack$ -- 0
+substring$ -- 387
+swap$ -- 186
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 62
+warning$ -- 17
+while$ -- 63
+width$ -- 19
+write$ -- 147
+(There were 17 warnings)

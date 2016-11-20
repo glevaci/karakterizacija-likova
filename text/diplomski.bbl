@@ -1,0 +1,163 @@
+\begin{thebibliography}{10}
+  \providecommand{\bysame}{\leavevmode\hbox to3em{\hrulefill}\thinspace}
+  \providecommand{\MR}{\relax\ifhmode\unskip\space\fi MR }
+  % \MRhref is called by the amsart/book/proc definition of \MR.
+  \providecommand{\MRhref}[2]{%
+    \href{http://www.ams.org/mathscinet-getitem?mr=#1}{#2}
+  }
+  \providecommand{\href}[2]{#2}
+  \providebibliographyfont{name}{}%
+  \providebibliographyfont{lastname}{}%
+  \providebibliographyfont{title}{\emph}%
+  \providebibliographyfont{jtitle}{\btxtitlefont}%
+  \providebibliographyfont{etal}{}%
+  \providebibliographyfont{journal}{}%
+  \providebibliographyfont{volume}{\textbf}%
+  \providebibliographyfont{ISBN}{\MakeUppercase}%
+  \providebibliographyfont{ISSN}{\MakeUppercase}%
+  \providebibliographyfont{url}{\url}%
+  \providebibliographyfont{numeral}{}%
+  \providecommand\btxprintamslanguage[1]{\ (#1)}
+  \expandafter\btxselectlanguage\expandafter {\btxfallbacklanguage}
+
+\expandafter\btxselectlanguage\expandafter {\btxfallbacklanguage}
+\bibitem {chomsky}
+\btxnamefont {Noam \btxlastnamefont {Chomsky}}, \btxtitlefont {\btxifchangecase
+  {Syntactic structures}{Syntactic Structures}}, \btxpublisherfont {Mouton
+  Publishers}, The Hague / Paris, 1957.
+
+\bibitem {clark2008coreference}
+\btxnamefont {Jonathan\btxfnamespacelong H. \btxlastnamefont {Clark}}
+  \btxandlong {} \btxnamefont {Jos{\'e}\btxfnamespacelong P. \btxlastnamefont
+  {Gonz{\'a}lez-Brenes}}, \btxtitlefont {\btxifchangecase {Coreference
+  resolution: Current trends and future directions}{Coreference resolution:
+  Current trends and future directions}},
+  \url{https://www.cs.cmu.edu/~jhclark/pubs/clark_gonzalez_coreference.pdf},
+  2008., pris\-tup\-lje\-no 23.~10.~2016., \btxpagesshort {.}~1--19.
+
+\bibitem {finkel2005incorporating}
+\btxnamefont {Jenny\btxfnamespacelong Rose \btxlastnamefont {Finkel}},
+  \btxnamefont {Trond \btxlastnamefont {Grenager}}\btxandcomma {} \btxandlong
+  {} \btxnamefont {Christopher \btxlastnamefont {Manning}}, \btxtitlefont
+  {\btxifchangecase {Incorporating non-local information into information
+  extraction systems by gibbs sampling}{Incorporating non-local information
+  into information extraction systems by gibbs sampling}}, Proceedings of the
+  43rd Annual Meeting on Association for Computational Linguistics, Association
+  for Computational Linguistics, 2005., \btxpagesshort {.}~363--370.
+
+\bibitem {grimes2010expert}
+\btxnamefont {Seth \btxlastnamefont {Grimes}}, \btxtitlefont {\btxifchangecase
+  {Expert analysis: Is sentiment analysis an 80\% solution?}{Expert analysis:
+  Is sentiment analysis an 80\% solution?}},
+  \url{http://www.informationweek.com/software/information-management/expert-analysis-is-sentiment-analysis-an-80--solution/d/d-id/1087919?},
+  2010., pris\-tup\-lje\-no 23.~10.~2016.
+
+\bibitem {haghighi2009simple}
+\btxnamefont {Aria \btxlastnamefont {Haghighi}} \btxandlong {} \btxnamefont
+  {Dan \btxlastnamefont {Klein}}, \btxtitlefont {\btxifchangecase {Simple
+  coreference resolution with rich syntactic and semantic features}{Simple
+  coreference resolution with rich syntactic and semantic features}},
+  Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+  Processing: Volume 3, Association for Computational Linguistics, 2009.,
+  \btxpagesshort {.}~1152--1161.
+
+\bibitem {jurafsky2014speech}
+\btxnamefont {Daniel \btxlastnamefont {Jurafsky}} \btxandlong {} \btxnamefont
+  {James\btxfnamespacelong H. \btxlastnamefont {Martin}}, \btxtitlefont
+  {\btxifchangecase {Speech and language processing (second edition)}{Speech
+  and Language Processing (second edition)}}, \btxpublisherfont {Pearson},
+  2009.
+
+\bibitem {lee2013deterministic}
+\btxnamefont {Heeyoung \btxlastnamefont {Lee}}, \btxnamefont {Angel
+  \btxlastnamefont {Chang}}, \btxnamefont {Yves \btxlastnamefont {Peirsman}},
+  \btxnamefont {Nathanael \btxlastnamefont {Chambers}}, \btxnamefont {Mihai
+  \btxlastnamefont {Surdeanu}}\btxandcomma {} \btxandlong {} \btxnamefont {Dan
+  \btxlastnamefont {Jurafsky}}, \btxjtitlefont {\btxifchangecase {Deterministic
+  coreference resolution based on entity-centric, precision-ranked
+  rules}{Deterministic coreference resolution based on entity-centric,
+  precision-ranked rules}}, \btxjournalfont {Computational Linguistics}
+  \btxvolumefont {39} (2013), \btxnumbershort {.}~4, 885--916.
+
+\bibitem {liu2012sentiment}
+\btxnamefont {Bing \btxlastnamefont {Liu}}, \btxjtitlefont {\btxifchangecase
+  {Sentiment analysis and opinion mining}{Sentiment analysis and opinion
+  mining}}, \btxjournalfont {Synthesis lectures on human language technologies}
+  \btxvolumefont {5} (2012), \btxnumbershort {.}~1, 1--167.
+
+\bibitem {manning2014stanford}
+\btxnamefont {Christopher\btxfnamespacelong D \btxlastnamefont {Manning}},
+  \btxnamefont {Mihai \btxlastnamefont {Surdeanu}}, \btxnamefont {John
+  \btxlastnamefont {Bauer}}, \btxnamefont {Jenny\btxfnamespacelong Rose
+  \btxlastnamefont {Finkel}}, \btxnamefont {Steven \btxlastnamefont
+  {Bethard}}\btxandcomma {} \btxandlong {} \btxnamefont {David \btxlastnamefont
+  {McClosky}}, \btxtitlefont {\btxifchangecase {The stanford corenlp natural
+  language processing toolkit.}{The Stanford CoreNLP Natural Language
+  Processing Toolkit.}}, ACL (System Demonstrations), 2014, \btxpagesshort
+  {.}~55--60.
+
+\bibitem {montague1970universal}
+\btxnamefont {Richard \btxlastnamefont {Montague}}, \btxjtitlefont
+  {\btxifchangecase {Universal grammar}{Universal grammar}}, \btxjournalfont
+  {Theoria} \btxvolumefont {36} (1970), \btxnumbershort {.}~3, 373--398.
+
+\bibitem {ogneva2010companies}
+\btxnamefont {Maria \btxlastnamefont {Ogneva}}, \btxtitlefont {\btxifchangecase
+  {How companies can use sentiment analysis to improve their business}{How
+  companies can use sentiment analysis to improve their business}},
+  \url{http://mashable.com/2010/04/19/sentiment-analysis/}, 2010.,
+  pris\-tup\-lje\-no 23.~10.~2016.
+
+\bibitem {gutenberg}
+\btxtitlefont {\btxifchangecase {Project gutenberg}{Project Gutenberg}},
+  \url{https://www.gutenberg.org/}, 2016., pristupljeno 12.~08.~2016.
+
+\bibitem {qu2010bag}
+\btxnamefont {Lizhen \btxlastnamefont {Qu}}, \btxnamefont {Georgiana
+  \btxlastnamefont {Ifrim}}\btxandcomma {} \btxandlong {} \btxnamefont {Gerhard
+  \btxlastnamefont {Weikum}}, \btxtitlefont {\btxifchangecase {The
+  bag-of-opinions method for review rating prediction from sparse text
+  patterns}{The bag-of-opinions method for review rating prediction from sparse
+  text patterns}}, Proceedings of the 23rd International Conference on
+  Computational Linguistics, Association for Computational Linguistics, 2010.,
+  \btxpagesshort {.}~913--921.
+
+\bibitem {aicomplete}
+\btxnamefont {Stuart\btxfnamespacelong C. \btxlastnamefont {Shapiro}},
+  \btxtitlefont {\btxifchangecase {Encyclopedia of artificial intelligence
+  (second edition)}{Encyclopedia of Artificial Intelligence (second edition)}},
+  \btxpublisherfont {A Wiley Interscience Publication}, New Jersey, 1992.
+
+\bibitem {sharifrecursive}
+\btxnamefont {Milad \btxlastnamefont {Sharif}} \btxandlong {} \btxnamefont
+  {Hossein\btxfnamespacelong Karkeh \btxlastnamefont {Abadi}}, \btxtitlefont
+  {\btxifchangecase {Recursive nested neural network for sentiment
+  analysis}{Recursive Nested Neural Network for Sentiment Analysis}},
+  \url{https://cs224d.stanford.edu/reports/SharifMilad.pdf}, 2015.,
+  pris\-tup\-lje\-no 23.~10.~2016., \btxpagesshort {.}~1--7.
+
+\bibitem {socher2013recursive}
+\btxnamefont {Richard \btxlastnamefont {Socher}}, \btxnamefont {Alex
+  \btxlastnamefont {Perelygin}}, \btxnamefont {Jean\btxfnamespacelong Y.
+  \btxlastnamefont {Wu}}, \btxnamefont {Jason \btxlastnamefont {Chuang}},
+  \btxnamefont {Christopher\btxfnamespacelong D. \btxlastnamefont {Manning}},
+  \btxnamefont {Andrew\btxfnamespacelong Y. \btxlastnamefont {Ng}}\btxandcomma
+  {} \btxandlong {} \btxnamefont {Christopher \btxlastnamefont {Potts}},
+  \btxtitlefont {\btxifchangecase {Recursive deep models for semantic
+  compositionality over a sentiment treebank}{Recursive deep models for
+  semantic compositionality over a sentiment treebank}}, Proceedings of the
+  Conference on Empirical Methods in Natural Language Processing (EMNLP),
+  Association for Computational Linguistics, 2013., \btxpagesshort
+  {.}~1631--1642.
+
+\bibitem {sutton2006introduction}
+\btxnamefont {Charles \btxlastnamefont {Sutton}} \btxandlong {} \btxnamefont
+  {Andrew \btxlastnamefont {McCallum}}, \btxtitlefont {\btxifchangecase {An
+  introduction to conditional random fields for relational learning}{An
+  introduction to conditional random fields for relational learning}},
+  Introduction to Statistical Relational Learning\ (\btxnamefont {Lise
+  \btxlastnamefont {Getoor}} \btxandlong {} \btxnamefont {Ben \btxlastnamefont
+  {Taskar}}, \btxeditorsshort {.}), \btxpublisherfont {MIT Press}, 2007,
+  \btxpagesshort {.}~92--128.
+
+\end{thebibliography}
