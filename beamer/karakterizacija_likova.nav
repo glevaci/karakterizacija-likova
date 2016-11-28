@@ -54,17 +54,22 @@
 \headcommand {\beamer@framepages {19}{19}}
 \headcommand {\slideentry {5}{0}{2}{20/20}{}{0}}
 \headcommand {\beamer@framepages {20}{20}}
-\headcommand {\slideentry {5}{0}{3}{21/21}{}{0}}
+\headcommand {\sectionentry {6}{Rezultati}{21}{Rezultati}{0}}
+\headcommand {\beamer@sectionpages {19}{20}}
+\headcommand {\beamer@subsectionpages {19}{20}}
+\headcommand {\slideentry {6}{0}{1}{21/21}{}{0}}
 \headcommand {\beamer@framepages {21}{21}}
-\headcommand {\sectionentry {6}{Zaklju\IeC {\v c}ak}{22}{Zaklju\IeC {\v c}ak}{0}}
-\headcommand {\beamer@sectionpages {19}{21}}
-\headcommand {\beamer@subsectionpages {19}{21}}
-\headcommand {\slideentry {6}{0}{1}{22/22}{}{0}}
+\headcommand {\slideentry {6}{0}{2}{22/22}{}{0}}
 \headcommand {\beamer@framepages {22}{22}}
-\headcommand {\slideentry {6}{0}{2}{23/23}{}{0}}
+\headcommand {\sectionentry {7}{Zaklju\IeC {\v c}ak}{23}{Zaklju\IeC {\v c}ak}{0}}
+\headcommand {\beamer@sectionpages {21}{22}}
+\headcommand {\beamer@subsectionpages {21}{22}}
+\headcommand {\slideentry {7}{0}{1}{23/23}{}{0}}
 \headcommand {\beamer@framepages {23}{23}}
-\headcommand {\beamer@partpages {1}{23}}
-\headcommand {\beamer@subsectionpages {24}{23}}
-\headcommand {\beamer@sectionpages {24}{23}}
-\headcommand {\beamer@documentpages {23}}
-\headcommand {\def \inserttotalframenumber {23}}
+\headcommand {\slideentry {7}{0}{2}{24/24}{}{0}}
+\headcommand {\beamer@framepages {24}{24}}
+\headcommand {\beamer@partpages {1}{24}}
+\headcommand {\beamer@subsectionpages {25}{24}}
+\headcommand {\beamer@sectionpages {25}{24}}
+\headcommand {\beamer@documentpages {24}}
+\headcommand {\def \inserttotalframenumber {24}}
